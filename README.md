@@ -1,2 +1,2 @@
 # Jager-s-Repo
-My first repo
+My first repository
